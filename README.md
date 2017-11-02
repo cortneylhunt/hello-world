@@ -1,2 +1,3 @@
 # hello-world
-Ideas and Resources
+I
+These are ideas and resources for my webpage.
